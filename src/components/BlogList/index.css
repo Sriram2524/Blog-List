@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.unordered-list {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}

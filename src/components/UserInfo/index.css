@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.user-info-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.user-img {
+  width: 200px;
+}
+.name {
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  color: #12022f;
+}
+.description {
+  color: #9aa5b1;
+  font-family: roboto;
+}

@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.list {
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.post-num-text {
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  color: #12022f;
+}
+.time{
+  font-family: roboto;
+  color:#616e7c ;
+  align-self: center;
+}
